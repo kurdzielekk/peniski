@@ -9,6 +9,7 @@
 #include "shape.h"
 using namespace std;
 int main() {
+	siema
 	Display* w1 = new GraphicalDisplay();
 	Display* w2 = new TextDisplay();
 	Shape* o1 = new Triangle(w1, 3, 2, 2, -2);
